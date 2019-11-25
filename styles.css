@@ -8,6 +8,11 @@
   font-family:noshaded; src:url('comic.otf');
 }
 
+body{
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
 body.index{
   background-image:url('img/blue.jpg');
 }
