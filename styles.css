@@ -8,9 +8,6 @@
   font-family:noshaded; src:url('comic.otf');
 }
 
-html, body {
-  overflow-x: hidden;
-}
 body {
   position: relative
 }
